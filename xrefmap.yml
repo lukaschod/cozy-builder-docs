@@ -1,0 +1,1721 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ProjectDawn.CozyBuilder
+  name: ProjectDawn.CozyBuilder
+  href: api/ProjectDawn.CozyBuilder.html
+  commentId: N:ProjectDawn.CozyBuilder
+  fullName: ProjectDawn.CozyBuilder
+  nameWithType: ProjectDawn.CozyBuilder
+- uid: ProjectDawn.CozyBuilder.BondOrentation
+  name: BondOrentation
+  href: api/ProjectDawn.CozyBuilder.BondOrentation.html
+  commentId: T:ProjectDawn.CozyBuilder.BondOrentation
+  fullName: ProjectDawn.CozyBuilder.BondOrentation
+  nameWithType: BondOrentation
+- uid: ProjectDawn.CozyBuilder.BondOrentation.Horizontal
+  name: Horizontal
+  href: api/ProjectDawn.CozyBuilder.BondOrentation.html#ProjectDawn_CozyBuilder_BondOrentation_Horizontal
+  commentId: F:ProjectDawn.CozyBuilder.BondOrentation.Horizontal
+  fullName: ProjectDawn.CozyBuilder.BondOrentation.Horizontal
+  nameWithType: BondOrentation.Horizontal
+- uid: ProjectDawn.CozyBuilder.BondOrentation.Vertical
+  name: Vertical
+  href: api/ProjectDawn.CozyBuilder.BondOrentation.html#ProjectDawn_CozyBuilder_BondOrentation_Vertical
+  commentId: F:ProjectDawn.CozyBuilder.BondOrentation.Vertical
+  fullName: ProjectDawn.CozyBuilder.BondOrentation.Vertical
+  nameWithType: BondOrentation.Vertical
+- uid: ProjectDawn.CozyBuilder.Cell
+  name: Cell
+  href: api/ProjectDawn.CozyBuilder.Cell.html
+  commentId: T:ProjectDawn.CozyBuilder.Cell
+  fullName: ProjectDawn.CozyBuilder.Cell
+  nameWithType: Cell
+- uid: ProjectDawn.CozyBuilder.Cell.#ctor(UnityEngine.Rect,System.Int32,System.Int32)
+  name: Cell(Rect, int, int)
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell__ctor_UnityEngine_Rect_System_Int32_System_Int32_
+  commentId: M:ProjectDawn.CozyBuilder.Cell.#ctor(UnityEngine.Rect,System.Int32,System.Int32)
+  name.vb: New(Rect, Integer, Integer)
+  fullName: ProjectDawn.CozyBuilder.Cell.Cell(UnityEngine.Rect, int, int)
+  fullName.vb: ProjectDawn.CozyBuilder.Cell.New(UnityEngine.Rect, Integer, Integer)
+  nameWithType: Cell.Cell(Rect, int, int)
+  nameWithType.vb: Cell.New(Rect, Integer, Integer)
+- uid: ProjectDawn.CozyBuilder.Cell.#ctor(UnityEngine.Rect,System.Single,System.Single,System.Int32,System.Int32)
+  name: Cell(Rect, float, float, int, int)
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell__ctor_UnityEngine_Rect_System_Single_System_Single_System_Int32_System_Int32_
+  commentId: M:ProjectDawn.CozyBuilder.Cell.#ctor(UnityEngine.Rect,System.Single,System.Single,System.Int32,System.Int32)
+  name.vb: New(Rect, Single, Single, Integer, Integer)
+  fullName: ProjectDawn.CozyBuilder.Cell.Cell(UnityEngine.Rect, float, float, int, int)
+  fullName.vb: ProjectDawn.CozyBuilder.Cell.New(UnityEngine.Rect, Single, Single, Integer, Integer)
+  nameWithType: Cell.Cell(Rect, float, float, int, int)
+  nameWithType.vb: Cell.New(Rect, Single, Single, Integer, Integer)
+- uid: ProjectDawn.CozyBuilder.Cell.#ctor*
+  name: Cell
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell__ctor_
+  commentId: Overload:ProjectDawn.CozyBuilder.Cell.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ProjectDawn.CozyBuilder.Cell.Cell
+  fullName.vb: ProjectDawn.CozyBuilder.Cell.New
+  nameWithType: Cell.Cell
+  nameWithType.vb: Cell.New
+- uid: ProjectDawn.CozyBuilder.Cell.Border
+  name: Border
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Border
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Border
+  fullName: ProjectDawn.CozyBuilder.Cell.Border
+  nameWithType: Cell.Border
+- uid: ProjectDawn.CozyBuilder.Cell.Column
+  name: Column
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Column
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Column
+  fullName: ProjectDawn.CozyBuilder.Cell.Column
+  nameWithType: Cell.Column
+- uid: ProjectDawn.CozyBuilder.Cell.Copy(UnityEngine.Rect)
+  name: Copy(Rect)
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Copy_UnityEngine_Rect_
+  commentId: M:ProjectDawn.CozyBuilder.Cell.Copy(UnityEngine.Rect)
+  fullName: ProjectDawn.CozyBuilder.Cell.Copy(UnityEngine.Rect)
+  nameWithType: Cell.Copy(Rect)
+- uid: ProjectDawn.CozyBuilder.Cell.Copy*
+  name: Copy
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Copy_
+  commentId: Overload:ProjectDawn.CozyBuilder.Cell.Copy
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.Cell.Copy
+  nameWithType: Cell.Copy
+- uid: ProjectDawn.CozyBuilder.Cell.Depth
+  name: Depth
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Depth
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Depth
+  fullName: ProjectDawn.CozyBuilder.Cell.Depth
+  nameWithType: Cell.Depth
+- uid: ProjectDawn.CozyBuilder.Cell.Rect
+  name: Rect
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Rect
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Rect
+  fullName: ProjectDawn.CozyBuilder.Cell.Rect
+  nameWithType: Cell.Rect
+- uid: ProjectDawn.CozyBuilder.Cell.Rotation
+  name: Rotation
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Rotation
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Rotation
+  fullName: ProjectDawn.CozyBuilder.Cell.Rotation
+  nameWithType: Cell.Rotation
+- uid: ProjectDawn.CozyBuilder.Cell.Row
+  name: Row
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Row
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Row
+  fullName: ProjectDawn.CozyBuilder.Cell.Row
+  nameWithType: Cell.Row
+- uid: ProjectDawn.CozyBuilder.Cell.UseRotation
+  name: UseRotation
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_UseRotation
+  commentId: F:ProjectDawn.CozyBuilder.Cell.UseRotation
+  fullName: ProjectDawn.CozyBuilder.Cell.UseRotation
+  nameWithType: Cell.UseRotation
+- uid: ProjectDawn.CozyBuilder.Cell.Z
+  name: Z
+  href: api/ProjectDawn.CozyBuilder.Cell.html#ProjectDawn_CozyBuilder_Cell_Z
+  commentId: F:ProjectDawn.CozyBuilder.Cell.Z
+  fullName: ProjectDawn.CozyBuilder.Cell.Z
+  nameWithType: Cell.Z
+- uid: ProjectDawn.CozyBuilder.CozyArtifact
+  name: CozyArtifact
+  href: api/ProjectDawn.CozyBuilder.CozyArtifact.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyArtifact
+  fullName: ProjectDawn.CozyBuilder.CozyArtifact
+  nameWithType: CozyArtifact
+- uid: ProjectDawn.CozyBuilder.CozyArtifact.GameObjects
+  name: GameObjects
+  href: api/ProjectDawn.CozyBuilder.CozyArtifact.html#ProjectDawn_CozyBuilder_CozyArtifact_GameObjects
+  commentId: F:ProjectDawn.CozyBuilder.CozyArtifact.GameObjects
+  fullName: ProjectDawn.CozyBuilder.CozyArtifact.GameObjects
+  nameWithType: CozyArtifact.GameObjects
+- uid: ProjectDawn.CozyBuilder.CozyArtifact.Hash
+  name: Hash
+  href: api/ProjectDawn.CozyBuilder.CozyArtifact.html#ProjectDawn_CozyBuilder_CozyArtifact_Hash
+  commentId: F:ProjectDawn.CozyBuilder.CozyArtifact.Hash
+  fullName: ProjectDawn.CozyBuilder.CozyArtifact.Hash
+  nameWithType: CozyArtifact.Hash
+- uid: ProjectDawn.CozyBuilder.CozyArtifact.Nodes
+  name: Nodes
+  href: api/ProjectDawn.CozyBuilder.CozyArtifact.html#ProjectDawn_CozyBuilder_CozyArtifact_Nodes
+  commentId: F:ProjectDawn.CozyBuilder.CozyArtifact.Nodes
+  fullName: ProjectDawn.CozyBuilder.CozyArtifact.Nodes
+  nameWithType: CozyArtifact.Nodes
+- uid: ProjectDawn.CozyBuilder.CozyArtifact.Version
+  name: Version
+  href: api/ProjectDawn.CozyBuilder.CozyArtifact.html#ProjectDawn_CozyBuilder_CozyArtifact_Version
+  commentId: F:ProjectDawn.CozyBuilder.CozyArtifact.Version
+  fullName: ProjectDawn.CozyBuilder.CozyArtifact.Version
+  nameWithType: CozyArtifact.Version
+- uid: ProjectDawn.CozyBuilder.CozyAttachment
+  name: CozyAttachment
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyAttachment
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment
+  nameWithType: CozyAttachment
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.Build(ProjectDawn.CozyBuilder.CozyBuilderContext@)
+  name: Build(ref CozyBuilderContext)
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_Build_ProjectDawn_CozyBuilder_CozyBuilderContext__
+  commentId: M:ProjectDawn.CozyBuilder.CozyAttachment.Build(ProjectDawn.CozyBuilder.CozyBuilderContext@)
+  name.vb: Build(CozyBuilderContext)
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.Build(ref ProjectDawn.CozyBuilder.CozyBuilderContext)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyAttachment.Build(ProjectDawn.CozyBuilder.CozyBuilderContext)
+  nameWithType: CozyAttachment.Build(ref CozyBuilderContext)
+  nameWithType.vb: CozyAttachment.Build(CozyBuilderContext)
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.Build*
+  name: Build
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_Build_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyAttachment.Build
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.Build
+  nameWithType: CozyAttachment.Build
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash()
+  nameWithType: CozyAttachment.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash
+  nameWithType: CozyAttachment.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.Prefab
+  name: Prefab
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_Prefab
+  commentId: F:ProjectDawn.CozyBuilder.CozyAttachment.Prefab
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.Prefab
+  nameWithType: CozyAttachment.Prefab
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.Size
+  name: Size
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_Size
+  commentId: F:ProjectDawn.CozyBuilder.CozyAttachment.Size
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.Size
+  nameWithType: CozyAttachment.Size
+- uid: ProjectDawn.CozyBuilder.CozyBuildMode
+  name: CozyBuildMode
+  href: api/ProjectDawn.CozyBuilder.CozyBuildMode.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyBuildMode
+  fullName: ProjectDawn.CozyBuilder.CozyBuildMode
+  nameWithType: CozyBuildMode
+- uid: ProjectDawn.CozyBuilder.CozyBuildMode.Always
+  name: Always
+  href: api/ProjectDawn.CozyBuilder.CozyBuildMode.html#ProjectDawn_CozyBuilder_CozyBuildMode_Always
+  commentId: F:ProjectDawn.CozyBuilder.CozyBuildMode.Always
+  fullName: ProjectDawn.CozyBuilder.CozyBuildMode.Always
+  nameWithType: CozyBuildMode.Always
+- uid: ProjectDawn.CozyBuilder.CozyBuildMode.Never
+  name: Never
+  href: api/ProjectDawn.CozyBuilder.CozyBuildMode.html#ProjectDawn_CozyBuilder_CozyBuildMode_Never
+  commentId: F:ProjectDawn.CozyBuilder.CozyBuildMode.Never
+  fullName: ProjectDawn.CozyBuilder.CozyBuildMode.Never
+  nameWithType: CozyBuildMode.Never
+- uid: ProjectDawn.CozyBuilder.CozyBuilderContext
+  name: CozyBuilderContext
+  href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyBuilderContext
+  fullName: ProjectDawn.CozyBuilder.CozyBuilderContext
+  nameWithType: CozyBuilderContext
+- uid: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject,Unity.Mathematics.float3,Unity.Mathematics.quaternion,Unity.Mathematics.float3)
+  name: Instantiate(GameObject, float3, quaternion, float3)
+  href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html#ProjectDawn_CozyBuilder_CozyBuilderContext_Instantiate_UnityEngine_GameObject_Unity_Mathematics_float3_Unity_Mathematics_quaternion_Unity_Mathematics_float3_
+  commentId: M:ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject,Unity.Mathematics.float3,Unity.Mathematics.quaternion,Unity.Mathematics.float3)
+  fullName: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject, Unity.Mathematics.float3, Unity.Mathematics.quaternion, Unity.Mathematics.float3)
+  nameWithType: CozyBuilderContext.Instantiate(GameObject, float3, quaternion, float3)
+- uid: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.Material,UnityEngine.Mesh,Unity.Mathematics.float3,Unity.Mathematics.quaternion)
+  name: Instantiate(Material, Mesh, float3, quaternion)
+  href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html#ProjectDawn_CozyBuilder_CozyBuilderContext_Instantiate_UnityEngine_Material_UnityEngine_Mesh_Unity_Mathematics_float3_Unity_Mathematics_quaternion_
+  commentId: M:ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.Material,UnityEngine.Mesh,Unity.Mathematics.float3,Unity.Mathematics.quaternion)
+  fullName: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.Material, UnityEngine.Mesh, Unity.Mathematics.float3, Unity.Mathematics.quaternion)
+  nameWithType: CozyBuilderContext.Instantiate(Material, Mesh, float3, quaternion)
+- uid: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate*
+  name: Instantiate
+  href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html#ProjectDawn_CozyBuilder_CozyBuilderContext_Instantiate_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate
+  nameWithType: CozyBuilderContext.Instantiate
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles
+  name: CozyCrenelles
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyCrenelles
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles
+  nameWithType: CozyCrenelles
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyCrenelles.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.CalculateHash()
+  nameWithType: CozyCrenelles.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyCrenelles.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.CalculateHash
+  nameWithType: CozyCrenelles.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.Frequency
+  name: Frequency
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_Frequency
+  commentId: F:ProjectDawn.CozyBuilder.CozyCrenelles.Frequency
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.Frequency
+  nameWithType: CozyCrenelles.Frequency
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.Invert
+  name: Invert
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_Invert
+  commentId: F:ProjectDawn.CozyBuilder.CozyCrenelles.Invert
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.Invert
+  nameWithType: CozyCrenelles.Invert
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyCrenelles.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyCrenelles.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyCrenelles.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyCrenelles.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyCrenelles.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.Modify
+  nameWithType: CozyCrenelles.Modify
+- uid: ProjectDawn.CozyBuilder.CozyCrenelles.Row
+  name: Row
+  href: api/ProjectDawn.CozyBuilder.CozyCrenelles.html#ProjectDawn_CozyBuilder_CozyCrenelles_Row
+  commentId: F:ProjectDawn.CozyBuilder.CozyCrenelles.Row
+  fullName: ProjectDawn.CozyBuilder.CozyCrenelles.Row
+  nameWithType: CozyCrenelles.Row
+- uid: ProjectDawn.CozyBuilder.CozyCut
+  name: CozyCut
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyCut
+  fullName: ProjectDawn.CozyBuilder.CozyCut
+  nameWithType: CozyCut
+- uid: ProjectDawn.CozyBuilder.CozyCut.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html#ProjectDawn_CozyBuilder_CozyCut_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyCut.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyCut.CalculateHash()
+  nameWithType: CozyCut.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyCut.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html#ProjectDawn_CozyBuilder_CozyCut_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyCut.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyCut.CalculateHash
+  nameWithType: CozyCut.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyCut.Cut(UnityEngine.Rect,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell})
+  name: Cut(Rect, NativeList<Cell>)
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html#ProjectDawn_CozyBuilder_CozyCut_Cut_UnityEngine_Rect_Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__
+  commentId: M:ProjectDawn.CozyBuilder.CozyCut.Cut(UnityEngine.Rect,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell})
+  name.vb: Cut(Rect, NativeList(Of Cell))
+  fullName: ProjectDawn.CozyBuilder.CozyCut.Cut(UnityEngine.Rect, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyCut.Cut(UnityEngine.Rect, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell))
+  nameWithType: CozyCut.Cut(Rect, NativeList<Cell>)
+  nameWithType.vb: CozyCut.Cut(Rect, NativeList(Of Cell))
+- uid: ProjectDawn.CozyBuilder.CozyCut.Cut*
+  name: Cut
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html#ProjectDawn_CozyBuilder_CozyCut_Cut_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyCut.Cut
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyCut.Cut
+  nameWithType: CozyCut.Cut
+- uid: ProjectDawn.CozyBuilder.CozyCut.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html#ProjectDawn_CozyBuilder_CozyCut_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyCut.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyCut.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyCut.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyCut.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyCut.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyCut.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyCut.html#ProjectDawn_CozyBuilder_CozyCut_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyCut.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyCut.Modify
+  nameWithType: CozyCut.Modify
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling
+  name: CozyDoubleLapTilling
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyDoubleLapTilling
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling
+  nameWithType: CozyDoubleLapTilling
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.CalculateHash()
+  nameWithType: CozyDoubleLapTilling.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.CalculateHash
+  nameWithType: CozyDoubleLapTilling.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.DepthScale
+  name: DepthScale
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_DepthScale
+  commentId: F:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.DepthScale
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.DepthScale
+  nameWithType: CozyDoubleLapTilling.DepthScale
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.HeightScale
+  name: HeightScale
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_HeightScale
+  commentId: F:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.HeightScale
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.HeightScale
+  nameWithType: CozyDoubleLapTilling.HeightScale
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyDoubleLapTilling.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyDoubleLapTilling.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Modify
+  nameWithType: CozyDoubleLapTilling.Modify
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Seed
+  name: Seed
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_Seed
+  commentId: F:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Seed
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.Seed
+  nameWithType: CozyDoubleLapTilling.Seed
+- uid: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.WidthScale
+  name: WidthScale
+  href: api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html#ProjectDawn_CozyBuilder_CozyDoubleLapTilling_WidthScale
+  commentId: F:ProjectDawn.CozyBuilder.CozyDoubleLapTilling.WidthScale
+  fullName: ProjectDawn.CozyBuilder.CozyDoubleLapTilling.WidthScale
+  nameWithType: CozyDoubleLapTilling.WidthScale
+- uid: ProjectDawn.CozyBuilder.CozyDraw
+  name: CozyDraw
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyDraw
+  fullName: ProjectDawn.CozyBuilder.CozyDraw
+  nameWithType: CozyDraw
+- uid: ProjectDawn.CozyBuilder.CozyDraw.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyDraw.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.CalculateHash()
+  nameWithType: CozyDraw.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyDraw.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyDraw.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.CalculateHash
+  nameWithType: CozyDraw.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyDraw.CellSize
+  name: CellSize
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_CellSize
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.CellSize
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.CellSize
+  nameWithType: CozyDraw.CellSize
+- uid: ProjectDawn.CozyBuilder.CozyDraw.DepthScaling
+  name: DepthScaling
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_DepthScaling
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.DepthScaling
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.DepthScaling
+  nameWithType: CozyDraw.DepthScaling
+- uid: ProjectDawn.CozyBuilder.CozyDraw.GlobalRotation
+  name: GlobalRotation
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_GlobalRotation
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.GlobalRotation
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.GlobalRotation
+  nameWithType: CozyDraw.GlobalRotation
+- uid: ProjectDawn.CozyBuilder.CozyDraw.HeightScaling
+  name: HeightScaling
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_HeightScaling
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.HeightScaling
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.HeightScaling
+  nameWithType: CozyDraw.HeightScaling
+- uid: ProjectDawn.CozyBuilder.CozyDraw.MinArea
+  name: MinArea
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_MinArea
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.MinArea
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.MinArea
+  nameWithType: CozyDraw.MinArea
+- uid: ProjectDawn.CozyBuilder.CozyDraw.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyDraw.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyDraw.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyDraw.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyDraw.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyDraw.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Segment},ProjectDawn.CozyBuilder.CozySpline)
+  name: Modify(ref CozyBuilderContext, NativeList<Segment>, CozySpline)
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Segment__ProjectDawn_CozyBuilder_CozySpline_
+  commentId: M:ProjectDawn.CozyBuilder.CozyDraw.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Segment},ProjectDawn.CozyBuilder.CozySpline)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Segment), CozySpline)
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Segment>, ProjectDawn.CozyBuilder.CozySpline)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyDraw.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Segment), ProjectDawn.CozyBuilder.CozySpline)
+  nameWithType: CozyDraw.Modify(ref CozyBuilderContext, NativeList<Segment>, CozySpline)
+  nameWithType.vb: CozyDraw.Modify(CozyBuilderContext, NativeList(Of Segment), CozySpline)
+- uid: ProjectDawn.CozyBuilder.CozyDraw.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyDraw.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.Modify
+  nameWithType: CozyDraw.Modify
+- uid: ProjectDawn.CozyBuilder.CozyDraw.Prefabs
+  name: Prefabs
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Prefabs
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.Prefabs
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.Prefabs
+  nameWithType: CozyDraw.Prefabs
+- uid: ProjectDawn.CozyBuilder.CozyDraw.Rotation
+  name: Rotation
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Rotation
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.Rotation
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.Rotation
+  nameWithType: CozyDraw.Rotation
+- uid: ProjectDawn.CozyBuilder.CozyDraw.Seed
+  name: Seed
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Seed
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.Seed
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.Seed
+  nameWithType: CozyDraw.Seed
+- uid: ProjectDawn.CozyBuilder.CozyDraw.WidthScaling
+  name: WidthScaling
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_WidthScaling
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.WidthScaling
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.WidthScaling
+  nameWithType: CozyDraw.WidthScaling
+- uid: ProjectDawn.CozyBuilder.CozyGrid
+  name: CozyGrid
+  href: api/ProjectDawn.CozyBuilder.CozyGrid.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyGrid
+  fullName: ProjectDawn.CozyBuilder.CozyGrid
+  nameWithType: CozyGrid
+- uid: ProjectDawn.CozyBuilder.CozyGrid.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyGrid.html#ProjectDawn_CozyBuilder_CozyGrid_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyGrid.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyGrid.CalculateHash()
+  nameWithType: CozyGrid.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyGrid.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyGrid.html#ProjectDawn_CozyBuilder_CozyGrid_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyGrid.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyGrid.CalculateHash
+  nameWithType: CozyGrid.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyGrid.CellSize
+  name: CellSize
+  href: api/ProjectDawn.CozyBuilder.CozyGrid.html#ProjectDawn_CozyBuilder_CozyGrid_CellSize
+  commentId: F:ProjectDawn.CozyBuilder.CozyGrid.CellSize
+  fullName: ProjectDawn.CozyBuilder.CozyGrid.CellSize
+  nameWithType: CozyGrid.CellSize
+- uid: ProjectDawn.CozyBuilder.CozyGrid.CenterV
+  name: CenterV
+  href: api/ProjectDawn.CozyBuilder.CozyGrid.html#ProjectDawn_CozyBuilder_CozyGrid_CenterV
+  commentId: F:ProjectDawn.CozyBuilder.CozyGrid.CenterV
+  fullName: ProjectDawn.CozyBuilder.CozyGrid.CenterV
+  nameWithType: CozyGrid.CenterV
+- uid: ProjectDawn.CozyBuilder.CozyMask
+  name: CozyMask
+  href: api/ProjectDawn.CozyBuilder.CozyMask.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyMask
+  fullName: ProjectDawn.CozyBuilder.CozyMask
+  nameWithType: CozyMask
+- uid: ProjectDawn.CozyBuilder.CozyMask.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyMask.html#ProjectDawn_CozyBuilder_CozyMask_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyMask.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyMask.CalculateHash()
+  nameWithType: CozyMask.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyMask.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyMask.html#ProjectDawn_CozyBuilder_CozyMask_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyMask.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyMask.CalculateHash
+  nameWithType: CozyMask.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyMask.Offset
+  name: Offset
+  href: api/ProjectDawn.CozyBuilder.CozyMask.html#ProjectDawn_CozyBuilder_CozyMask_Offset
+  commentId: F:ProjectDawn.CozyBuilder.CozyMask.Offset
+  fullName: ProjectDawn.CozyBuilder.CozyMask.Offset
+  nameWithType: CozyMask.Offset
+- uid: ProjectDawn.CozyBuilder.CozyMask.Size
+  name: Size
+  href: api/ProjectDawn.CozyBuilder.CozyMask.html#ProjectDawn_CozyBuilder_CozyMask_Size
+  commentId: F:ProjectDawn.CozyBuilder.CozyMask.Size
+  fullName: ProjectDawn.CozyBuilder.CozyMask.Size
+  nameWithType: CozyMask.Size
+- uid: ProjectDawn.CozyBuilder.CozyPlane
+  name: CozyPlane
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyPlane
+  fullName: ProjectDawn.CozyBuilder.CozyPlane
+  nameWithType: CozyPlane
+- uid: ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength(System.Single)
+  name: CalculateColumnLength(float)
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_CalculateColumnLength_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength(System.Single)
+  name.vb: CalculateColumnLength(Single)
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength(float)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength(Single)
+  nameWithType: CozyPlane.CalculateColumnLength(float)
+  nameWithType.vb: CozyPlane.CalculateColumnLength(Single)
+- uid: ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength*
+  name: CalculateColumnLength
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_CalculateColumnLength_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.CalculateColumnLength
+  nameWithType: CozyPlane.CalculateColumnLength
+- uid: ProjectDawn.CozyBuilder.CozyPlane.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyPlane.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.CalculateHash()
+  nameWithType: CozyPlane.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyPlane.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.CalculateHash
+  nameWithType: CozyPlane.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyPlane.CalculateRowLength
+  name: CalculateRowLength()
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_CalculateRowLength
+  commentId: M:ProjectDawn.CozyBuilder.CozyPlane.CalculateRowLength
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.CalculateRowLength()
+  nameWithType: CozyPlane.CalculateRowLength()
+- uid: ProjectDawn.CozyBuilder.CozyPlane.CalculateRowLength*
+  name: CalculateRowLength
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_CalculateRowLength_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.CalculateRowLength
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.CalculateRowLength
+  nameWithType: CozyPlane.CalculateRowLength
+- uid: ProjectDawn.CozyBuilder.CozyPlane.GetRect(Unity.Mathematics.float3,Unity.Mathematics.float2)
+  name: GetRect(float3, float2)
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_GetRect_Unity_Mathematics_float3_Unity_Mathematics_float2_
+  commentId: M:ProjectDawn.CozyBuilder.CozyPlane.GetRect(Unity.Mathematics.float3,Unity.Mathematics.float2)
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.GetRect(Unity.Mathematics.float3, Unity.Mathematics.float2)
+  nameWithType: CozyPlane.GetRect(float3, float2)
+- uid: ProjectDawn.CozyBuilder.CozyPlane.GetRect*
+  name: GetRect
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_GetRect_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.GetRect
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.GetRect
+  nameWithType: CozyPlane.GetRect
+- uid: ProjectDawn.CozyBuilder.CozyPlane.GetUv(Unity.Mathematics.float3)
+  name: GetUv(float3)
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_GetUv_Unity_Mathematics_float3_
+  commentId: M:ProjectDawn.CozyBuilder.CozyPlane.GetUv(Unity.Mathematics.float3)
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.GetUv(Unity.Mathematics.float3)
+  nameWithType: CozyPlane.GetUv(float3)
+- uid: ProjectDawn.CozyBuilder.CozyPlane.GetUv*
+  name: GetUv
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_GetUv_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.GetUv
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.GetUv
+  nameWithType: CozyPlane.GetUv
+- uid: ProjectDawn.CozyBuilder.CozyPlane.IsValid
+  name: IsValid
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_IsValid
+  commentId: P:ProjectDawn.CozyBuilder.CozyPlane.IsValid
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.IsValid
+  nameWithType: CozyPlane.IsValid
+- uid: ProjectDawn.CozyBuilder.CozyPlane.IsValid*
+  name: IsValid
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_IsValid_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.IsValid
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.IsValid
+  nameWithType: CozyPlane.IsValid
+- uid: ProjectDawn.CozyBuilder.CozyPlane.Position
+  name: Position
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_Position
+  commentId: P:ProjectDawn.CozyBuilder.CozyPlane.Position
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.Position
+  nameWithType: CozyPlane.Position
+- uid: ProjectDawn.CozyBuilder.CozyPlane.Position*
+  name: Position
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_Position_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.Position
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.Position
+  nameWithType: CozyPlane.Position
+- uid: ProjectDawn.CozyBuilder.CozyPlane.SamplePlane(Unity.Mathematics.float2)
+  name: SamplePlane(float2)
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_SamplePlane_Unity_Mathematics_float2_
+  commentId: M:ProjectDawn.CozyBuilder.CozyPlane.SamplePlane(Unity.Mathematics.float2)
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.SamplePlane(Unity.Mathematics.float2)
+  nameWithType: CozyPlane.SamplePlane(float2)
+- uid: ProjectDawn.CozyBuilder.CozyPlane.SamplePlane*
+  name: SamplePlane
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_SamplePlane_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPlane.SamplePlane
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.SamplePlane
+  nameWithType: CozyPlane.SamplePlane
+- uid: ProjectDawn.CozyBuilder.CozyPlane.SplineA
+  name: SplineA
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_SplineA
+  commentId: F:ProjectDawn.CozyBuilder.CozyPlane.SplineA
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.SplineA
+  nameWithType: CozyPlane.SplineA
+- uid: ProjectDawn.CozyBuilder.CozyPlane.SplineB
+  name: SplineB
+  href: api/ProjectDawn.CozyBuilder.CozyPlane.html#ProjectDawn_CozyBuilder_CozyPlane_SplineB
+  commentId: F:ProjectDawn.CozyBuilder.CozyPlane.SplineB
+  fullName: ProjectDawn.CozyBuilder.CozyPlane.SplineB
+  nameWithType: CozyPlane.SplineB
+- uid: ProjectDawn.CozyBuilder.CozyPoint
+  name: CozyPoint
+  href: api/ProjectDawn.CozyBuilder.CozyPoint.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyPoint
+  fullName: ProjectDawn.CozyBuilder.CozyPoint
+  nameWithType: CozyPoint
+- uid: ProjectDawn.CozyBuilder.CozyPoint.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyPoint.html#ProjectDawn_CozyBuilder_CozyPoint_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyPoint.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyPoint.CalculateHash()
+  nameWithType: CozyPoint.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyPoint.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyPoint.html#ProjectDawn_CozyBuilder_CozyPoint_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPoint.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPoint.CalculateHash
+  nameWithType: CozyPoint.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyPoint.Position
+  name: Position
+  href: api/ProjectDawn.CozyBuilder.CozyPoint.html#ProjectDawn_CozyBuilder_CozyPoint_Position
+  commentId: P:ProjectDawn.CozyBuilder.CozyPoint.Position
+  fullName: ProjectDawn.CozyBuilder.CozyPoint.Position
+  nameWithType: CozyPoint.Position
+- uid: ProjectDawn.CozyBuilder.CozyPoint.Position*
+  name: Position
+  href: api/ProjectDawn.CozyBuilder.CozyPoint.html#ProjectDawn_CozyBuilder_CozyPoint_Position_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyPoint.Position
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyPoint.Position
+  nameWithType: CozyPoint.Position
+- uid: ProjectDawn.CozyBuilder.CozyQuoin
+  name: CozyQuoin
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyQuoin
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin
+  nameWithType: CozyQuoin
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyQuoin.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.CalculateHash()
+  nameWithType: CozyQuoin.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyQuoin.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.CalculateHash
+  nameWithType: CozyQuoin.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.CornerAngle
+  name: CornerAngle
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_CornerAngle
+  commentId: F:ProjectDawn.CozyBuilder.CozyQuoin.CornerAngle
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.CornerAngle
+  nameWithType: CozyQuoin.CornerAngle
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.Depth
+  name: Depth
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Depth
+  commentId: F:ProjectDawn.CozyBuilder.CozyQuoin.Depth
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.Depth
+  nameWithType: CozyQuoin.Depth
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.Height
+  name: Height
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Height
+  commentId: F:ProjectDawn.CozyBuilder.CozyQuoin.Height
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.Height
+  nameWithType: CozyQuoin.Height
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyQuoin.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyQuoin.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyQuoin.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyQuoin.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyQuoin.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.Modify
+  nameWithType: CozyQuoin.Modify
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.Width
+  name: Width
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Width
+  commentId: F:ProjectDawn.CozyBuilder.CozyQuoin.Width
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.Width
+  nameWithType: CozyQuoin.Width
+- uid: ProjectDawn.CozyBuilder.CozyRenderMode
+  name: CozyRenderMode
+  href: api/ProjectDawn.CozyBuilder.CozyRenderMode.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyRenderMode
+  fullName: ProjectDawn.CozyBuilder.CozyRenderMode
+  nameWithType: CozyRenderMode
+- uid: ProjectDawn.CozyBuilder.CozyRenderMode.GameObjects
+  name: GameObjects
+  href: api/ProjectDawn.CozyBuilder.CozyRenderMode.html#ProjectDawn_CozyBuilder_CozyRenderMode_GameObjects
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderMode.GameObjects
+  fullName: ProjectDawn.CozyBuilder.CozyRenderMode.GameObjects
+  nameWithType: CozyRenderMode.GameObjects
+- uid: ProjectDawn.CozyBuilder.CozyRenderMode.ProceduralDraw
+  name: ProceduralDraw
+  href: api/ProjectDawn.CozyBuilder.CozyRenderMode.html#ProjectDawn_CozyBuilder_CozyRenderMode_ProceduralDraw
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderMode.ProceduralDraw
+  fullName: ProjectDawn.CozyBuilder.CozyRenderMode.ProceduralDraw
+  nameWithType: CozyRenderMode.ProceduralDraw
+- uid: ProjectDawn.CozyBuilder.CozyRenderNode
+  name: CozyRenderNode
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNode.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyRenderNode
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNode
+  nameWithType: CozyRenderNode
+- uid: ProjectDawn.CozyBuilder.CozyRenderNode.Material
+  name: Material
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNode.html#ProjectDawn_CozyBuilder_CozyRenderNode_Material
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderNode.Material
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNode.Material
+  nameWithType: CozyRenderNode.Material
+- uid: ProjectDawn.CozyBuilder.CozyRenderNode.Mesh
+  name: Mesh
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNode.html#ProjectDawn_CozyBuilder_CozyRenderNode_Mesh
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderNode.Mesh
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNode.Mesh
+  nameWithType: CozyRenderNode.Mesh
+- uid: ProjectDawn.CozyBuilder.CozyRenderNode.Transform
+  name: Transform
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNode.html#ProjectDawn_CozyBuilder_CozyRenderNode_Transform
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderNode.Transform
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNode.Transform
+  nameWithType: CozyRenderNode.Transform
+- uid: ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer
+  name: CozyRenderNodeBatchComparer
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer
+  nameWithType: CozyRenderNodeBatchComparer
+- uid: ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.Compare(ProjectDawn.CozyBuilder.CozyRenderNode,ProjectDawn.CozyBuilder.CozyRenderNode)
+  name: Compare(CozyRenderNode, CozyRenderNode)
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.html#ProjectDawn_CozyBuilder_CozyRenderNodeBatchComparer_Compare_ProjectDawn_CozyBuilder_CozyRenderNode_ProjectDawn_CozyBuilder_CozyRenderNode_
+  commentId: M:ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.Compare(ProjectDawn.CozyBuilder.CozyRenderNode,ProjectDawn.CozyBuilder.CozyRenderNode)
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.Compare(ProjectDawn.CozyBuilder.CozyRenderNode, ProjectDawn.CozyBuilder.CozyRenderNode)
+  nameWithType: CozyRenderNodeBatchComparer.Compare(CozyRenderNode, CozyRenderNode)
+- uid: ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.Compare*
+  name: Compare
+  href: api/ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.html#ProjectDawn_CozyBuilder_CozyRenderNodeBatchComparer_Compare_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.Compare
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.Compare
+  nameWithType: CozyRenderNodeBatchComparer.Compare
+- uid: ProjectDawn.CozyBuilder.CozyRenderer
+  name: CozyRenderer
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyRenderer
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer
+  nameWithType: CozyRenderer
+- uid: ProjectDawn.CozyBuilder.CozyRenderer.Build
+  name: Build()
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_Build
+  commentId: M:ProjectDawn.CozyBuilder.CozyRenderer.Build
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer.Build()
+  nameWithType: CozyRenderer.Build()
+- uid: ProjectDawn.CozyBuilder.CozyRenderer.Build*
+  name: Build
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_Build_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyRenderer.Build
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer.Build
+  nameWithType: CozyRenderer.Build
+- uid: ProjectDawn.CozyBuilder.CozyRenderer.BuildMode
+  name: BuildMode
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_BuildMode
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderer.BuildMode
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer.BuildMode
+  nameWithType: CozyRenderer.BuildMode
+- uid: ProjectDawn.CozyBuilder.CozyRenderer.Clear
+  name: Clear()
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_Clear
+  commentId: M:ProjectDawn.CozyBuilder.CozyRenderer.Clear
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer.Clear()
+  nameWithType: CozyRenderer.Clear()
+- uid: ProjectDawn.CozyBuilder.CozyRenderer.Clear*
+  name: Clear
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_Clear_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyRenderer.Clear
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer.Clear
+  nameWithType: CozyRenderer.Clear
+- uid: ProjectDawn.CozyBuilder.CozyRenderer.RenderMode
+  name: RenderMode
+  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_RenderMode
+  commentId: F:ProjectDawn.CozyBuilder.CozyRenderer.RenderMode
+  fullName: ProjectDawn.CozyBuilder.CozyRenderer.RenderMode
+  nameWithType: CozyRenderer.RenderMode
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond
+  name: CozyRunningBond
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyRunningBond
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond
+  nameWithType: CozyRunningBond
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyRunningBond.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.CalculateHash()
+  nameWithType: CozyRunningBond.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyRunningBond.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.CalculateHash
+  nameWithType: CozyRunningBond.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.DepthScale
+  name: DepthScale
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_DepthScale
+  commentId: F:ProjectDawn.CozyBuilder.CozyRunningBond.DepthScale
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.DepthScale
+  nameWithType: CozyRunningBond.DepthScale
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.MinHeight
+  name: MinHeight
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_MinHeight
+  commentId: F:ProjectDawn.CozyBuilder.CozyRunningBond.MinHeight
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.MinHeight
+  nameWithType: CozyRunningBond.MinHeight
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyRunningBond.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyRunningBond.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyRunningBond.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyRunningBond.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyRunningBond.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.Modify
+  nameWithType: CozyRunningBond.Modify
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.Orentation
+  name: Orentation
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_Orentation
+  commentId: F:ProjectDawn.CozyBuilder.CozyRunningBond.Orentation
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.Orentation
+  nameWithType: CozyRunningBond.Orentation
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.Seed
+  name: Seed
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_Seed
+  commentId: F:ProjectDawn.CozyBuilder.CozyRunningBond.Seed
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.Seed
+  nameWithType: CozyRunningBond.Seed
+- uid: ProjectDawn.CozyBuilder.CozyRunningBond.WidthScale
+  name: WidthScale
+  href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html#ProjectDawn_CozyBuilder_CozyRunningBond_WidthScale
+  commentId: F:ProjectDawn.CozyBuilder.CozyRunningBond.WidthScale
+  fullName: ProjectDawn.CozyBuilder.CozyRunningBond.WidthScale
+  nameWithType: CozyRunningBond.WidthScale
+- uid: ProjectDawn.CozyBuilder.CozySegments
+  name: CozySegments
+  href: api/ProjectDawn.CozyBuilder.CozySegments.html
+  commentId: T:ProjectDawn.CozyBuilder.CozySegments
+  fullName: ProjectDawn.CozyBuilder.CozySegments
+  nameWithType: CozySegments
+- uid: ProjectDawn.CozyBuilder.CozySegments.Spacing
+  name: Spacing
+  href: api/ProjectDawn.CozyBuilder.CozySegments.html#ProjectDawn_CozyBuilder_CozySegments_Spacing
+  commentId: F:ProjectDawn.CozyBuilder.CozySegments.Spacing
+  fullName: ProjectDawn.CozyBuilder.CozySegments.Spacing
+  nameWithType: CozySegments.Spacing
+- uid: ProjectDawn.CozyBuilder.CozySpline
+  name: CozySpline
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html
+  commentId: T:ProjectDawn.CozyBuilder.CozySpline
+  fullName: ProjectDawn.CozyBuilder.CozySpline
+  nameWithType: CozySpline
+- uid: ProjectDawn.CozyBuilder.CozySpline.Build(ProjectDawn.CozyBuilder.CozyBuilderContext@)
+  name: Build(ref CozyBuilderContext)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Build_ProjectDawn_CozyBuilder_CozyBuilderContext__
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.Build(ProjectDawn.CozyBuilder.CozyBuilderContext@)
+  name.vb: Build(CozyBuilderContext)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Build(ref ProjectDawn.CozyBuilder.CozyBuilderContext)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.Build(ProjectDawn.CozyBuilder.CozyBuilderContext)
+  nameWithType: CozySpline.Build(ref CozyBuilderContext)
+  nameWithType.vb: CozySpline.Build(CozyBuilderContext)
+- uid: ProjectDawn.CozyBuilder.CozySpline.Build*
+  name: Build
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Build_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.Build
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Build
+  nameWithType: CozySpline.Build
+- uid: ProjectDawn.CozyBuilder.CozySpline.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozySpline.CalculateHash()
+  nameWithType: CozySpline.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozySpline.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.CalculateHash
+  nameWithType: CozySpline.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozySpline.CalculateLength
+  name: CalculateLength()
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_CalculateLength
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.CalculateLength
+  fullName: ProjectDawn.CozyBuilder.CozySpline.CalculateLength()
+  nameWithType: CozySpline.CalculateLength()
+- uid: ProjectDawn.CozyBuilder.CozySpline.CalculateLength*
+  name: CalculateLength
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_CalculateLength_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.CalculateLength
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.CalculateLength
+  nameWithType: CozySpline.CalculateLength
+- uid: ProjectDawn.CozyBuilder.CozySpline.CatmullRom(Unity.Mathematics.float3,Unity.Mathematics.float3,Unity.Mathematics.float3,Unity.Mathematics.float3,System.Single)
+  name: CatmullRom(float3, float3, float3, float3, float)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_CatmullRom_Unity_Mathematics_float3_Unity_Mathematics_float3_Unity_Mathematics_float3_Unity_Mathematics_float3_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.CatmullRom(Unity.Mathematics.float3,Unity.Mathematics.float3,Unity.Mathematics.float3,Unity.Mathematics.float3,System.Single)
+  name.vb: CatmullRom(float3, float3, float3, float3, Single)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.CatmullRom(Unity.Mathematics.float3, Unity.Mathematics.float3, Unity.Mathematics.float3, Unity.Mathematics.float3, float)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.CatmullRom(Unity.Mathematics.float3, Unity.Mathematics.float3, Unity.Mathematics.float3, Unity.Mathematics.float3, Single)
+  nameWithType: CozySpline.CatmullRom(float3, float3, float3, float3, float)
+  nameWithType.vb: CozySpline.CatmullRom(float3, float3, float3, float3, Single)
+- uid: ProjectDawn.CozyBuilder.CozySpline.CatmullRom*
+  name: CatmullRom
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_CatmullRom_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.CatmullRom
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.CatmullRom
+  nameWithType: CozySpline.CatmullRom
+- uid: ProjectDawn.CozyBuilder.CozySpline.ClosestTOnLine(Unity.Mathematics.float3,Unity.Mathematics.float3,Unity.Mathematics.float3)
+  name: ClosestTOnLine(float3, float3, float3)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_ClosestTOnLine_Unity_Mathematics_float3_Unity_Mathematics_float3_Unity_Mathematics_float3_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.ClosestTOnLine(Unity.Mathematics.float3,Unity.Mathematics.float3,Unity.Mathematics.float3)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.ClosestTOnLine(Unity.Mathematics.float3, Unity.Mathematics.float3, Unity.Mathematics.float3)
+  nameWithType: CozySpline.ClosestTOnLine(float3, float3, float3)
+- uid: ProjectDawn.CozyBuilder.CozySpline.ClosestTOnLine*
+  name: ClosestTOnLine
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_ClosestTOnLine_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.ClosestTOnLine
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.ClosestTOnLine
+  nameWithType: CozySpline.ClosestTOnLine
+- uid: ProjectDawn.CozyBuilder.CozySpline.Detail
+  name: Detail
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Detail
+  commentId: F:ProjectDawn.CozyBuilder.CozySpline.Detail
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Detail
+  nameWithType: CozySpline.Detail
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetLength(System.Single)
+  name: GetLength(float)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetLength_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.GetLength(System.Single)
+  name.vb: GetLength(Single)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetLength(float)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.GetLength(Single)
+  nameWithType: CozySpline.GetLength(float)
+  nameWithType.vb: CozySpline.GetLength(Single)
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetLength*
+  name: GetLength
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetLength_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.GetLength
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetLength
+  nameWithType: CozySpline.GetLength
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex(System.Int32)
+  name: GetPointTAtIndex(int)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetPointTAtIndex_System_Int32_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex(System.Int32)
+  name.vb: GetPointTAtIndex(Integer)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex(int)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex(Integer)
+  nameWithType: CozySpline.GetPointTAtIndex(int)
+  nameWithType.vb: CozySpline.GetPointTAtIndex(Integer)
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex*
+  name: GetPointTAtIndex
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetPointTAtIndex_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetPointTAtIndex
+  nameWithType: CozySpline.GetPointTAtIndex
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetRawT(System.Single)
+  name: GetRawT(float)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetRawT_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.GetRawT(System.Single)
+  name.vb: GetRawT(Single)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetRawT(float)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.GetRawT(Single)
+  nameWithType: CozySpline.GetRawT(float)
+  nameWithType.vb: CozySpline.GetRawT(Single)
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetRawT(Unity.Mathematics.float3)
+  name: GetRawT(float3)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetRawT_Unity_Mathematics_float3_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.GetRawT(Unity.Mathematics.float3)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetRawT(Unity.Mathematics.float3)
+  nameWithType: CozySpline.GetRawT(float3)
+- uid: ProjectDawn.CozyBuilder.CozySpline.GetRawT*
+  name: GetRawT
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_GetRawT_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.GetRawT
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.GetRawT
+  nameWithType: CozySpline.GetRawT
+- uid: ProjectDawn.CozyBuilder.CozySpline.IsCreated
+  name: IsCreated
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_IsCreated
+  commentId: P:ProjectDawn.CozyBuilder.CozySpline.IsCreated
+  fullName: ProjectDawn.CozyBuilder.CozySpline.IsCreated
+  nameWithType: CozySpline.IsCreated
+- uid: ProjectDawn.CozyBuilder.CozySpline.IsCreated*
+  name: IsCreated
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_IsCreated_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.IsCreated
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.IsCreated
+  nameWithType: CozySpline.IsCreated
+- uid: ProjectDawn.CozyBuilder.CozySpline.IsValid
+  name: IsValid
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_IsValid
+  commentId: P:ProjectDawn.CozyBuilder.CozySpline.IsValid
+  fullName: ProjectDawn.CozyBuilder.CozySpline.IsValid
+  nameWithType: CozySpline.IsValid
+- uid: ProjectDawn.CozyBuilder.CozySpline.IsValid*
+  name: IsValid
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_IsValid_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.IsValid
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.IsValid
+  nameWithType: CozySpline.IsValid
+- uid: ProjectDawn.CozyBuilder.CozySpline.Points
+  name: Points
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Points
+  commentId: P:ProjectDawn.CozyBuilder.CozySpline.Points
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Points
+  nameWithType: CozySpline.Points
+- uid: ProjectDawn.CozyBuilder.CozySpline.Points*
+  name: Points
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Points_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.Points
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Points
+  nameWithType: CozySpline.Points
+- uid: ProjectDawn.CozyBuilder.CozySpline.Position
+  name: Position
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Position
+  commentId: P:ProjectDawn.CozyBuilder.CozySpline.Position
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Position
+  nameWithType: CozySpline.Position
+- uid: ProjectDawn.CozyBuilder.CozySpline.Position*
+  name: Position
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Position_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.Position
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Position
+  nameWithType: CozySpline.Position
+- uid: ProjectDawn.CozyBuilder.CozySpline.SampleSpline(System.Single)
+  name: SampleSpline(float)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_SampleSpline_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.SampleSpline(System.Single)
+  name.vb: SampleSpline(Single)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.SampleSpline(float)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.SampleSpline(Single)
+  nameWithType: CozySpline.SampleSpline(float)
+  nameWithType.vb: CozySpline.SampleSpline(Single)
+- uid: ProjectDawn.CozyBuilder.CozySpline.SampleSpline*
+  name: SampleSpline
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_SampleSpline_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.SampleSpline
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.SampleSpline
+  nameWithType: CozySpline.SampleSpline
+- uid: ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT(System.Single)
+  name: SampleSplineWithRawT(float)
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_SampleSplineWithRawT_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT(System.Single)
+  name.vb: SampleSplineWithRawT(Single)
+  fullName: ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT(float)
+  fullName.vb: ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT(Single)
+  nameWithType: CozySpline.SampleSplineWithRawT(float)
+  nameWithType.vb: CozySpline.SampleSplineWithRawT(Single)
+- uid: ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT*
+  name: SampleSplineWithRawT
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_SampleSplineWithRawT_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozySpline.SampleSplineWithRawT
+  nameWithType: CozySpline.SampleSplineWithRawT
+- uid: ProjectDawn.CozyBuilder.CozySpline.Topology
+  name: Topology
+  href: api/ProjectDawn.CozyBuilder.CozySpline.html#ProjectDawn_CozyBuilder_CozySpline_Topology
+  commentId: F:ProjectDawn.CozyBuilder.CozySpline.Topology
+  fullName: ProjectDawn.CozyBuilder.CozySpline.Topology
+  nameWithType: CozySpline.Topology
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses
+  name: CozyStringCourses
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html
+  commentId: T:ProjectDawn.CozyBuilder.CozyStringCourses
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses
+  nameWithType: CozyStringCourses
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html#ProjectDawn_CozyBuilder_CozyStringCourses_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.CozyStringCourses.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses.CalculateHash()
+  nameWithType: CozyStringCourses.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html#ProjectDawn_CozyBuilder_CozyStringCourses_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyStringCourses.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses.CalculateHash
+  nameWithType: CozyStringCourses.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses.CellSize
+  name: CellSize
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html#ProjectDawn_CozyBuilder_CozyStringCourses_CellSize
+  commentId: F:ProjectDawn.CozyBuilder.CozyStringCourses.CellSize
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses.CellSize
+  nameWithType: CozyStringCourses.CellSize
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html#ProjectDawn_CozyBuilder_CozyStringCourses_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.CozyStringCourses.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.CozyStringCourses.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: CozyStringCourses.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: CozyStringCourses.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html#ProjectDawn_CozyBuilder_CozyStringCourses_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.CozyStringCourses.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses.Modify
+  nameWithType: CozyStringCourses.Modify
+- uid: ProjectDawn.CozyBuilder.CozyStringCourses.Spacing
+  name: Spacing
+  href: api/ProjectDawn.CozyBuilder.CozyStringCourses.html#ProjectDawn_CozyBuilder_CozyStringCourses_Spacing
+  commentId: F:ProjectDawn.CozyBuilder.CozyStringCourses.Spacing
+  fullName: ProjectDawn.CozyBuilder.CozyStringCourses.Spacing
+  nameWithType: CozyStringCourses.Spacing
+- uid: ProjectDawn.CozyBuilder.Editor
+  name: ProjectDawn.CozyBuilder.Editor
+  href: api/ProjectDawn.CozyBuilder.Editor.html
+  commentId: N:ProjectDawn.CozyBuilder.Editor
+  fullName: ProjectDawn.CozyBuilder.Editor
+  nameWithType: ProjectDawn.CozyBuilder.Editor
+- uid: ProjectDawn.CozyBuilder.Editor.CozyOverlay
+  name: CozyOverlay
+  href: api/ProjectDawn.CozyBuilder.Editor.CozyOverlay.html
+  commentId: T:ProjectDawn.CozyBuilder.Editor.CozyOverlay
+  fullName: ProjectDawn.CozyBuilder.Editor.CozyOverlay
+  nameWithType: CozyOverlay
+- uid: ProjectDawn.CozyBuilder.Editor.CozyRendererGizmos
+  name: CozyRendererGizmos
+  href: api/ProjectDawn.CozyBuilder.Editor.CozyRendererGizmos.html
+  commentId: T:ProjectDawn.CozyBuilder.Editor.CozyRendererGizmos
+  fullName: ProjectDawn.CozyBuilder.Editor.CozyRendererGizmos
+  nameWithType: CozyRendererGizmos
+- uid: ProjectDawn.CozyBuilder.GameObjectExt
+  name: GameObjectExt
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html
+  commentId: T:ProjectDawn.CozyBuilder.GameObjectExt
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt
+  nameWithType: GameObjectExt
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1
+  name: GameObjectExt.ComponentScope<T>
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html
+  commentId: T:ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1
+  name.vb: GameObjectExt.ComponentScope(Of T)
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T)
+  nameWithType: GameObjectExt.ComponentScope<T>
+  nameWithType.vb: GameObjectExt.ComponentScope(Of T)
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.Dispose
+  name: Dispose()
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html#ProjectDawn_CozyBuilder_GameObjectExt_ComponentScope_1_Dispose
+  commentId: M:ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.Dispose
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>.Dispose()
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T).Dispose()
+  nameWithType: GameObjectExt.ComponentScope<T>.Dispose()
+  nameWithType.vb: GameObjectExt.ComponentScope(Of T).Dispose()
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.Dispose*
+  name: Dispose
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html#ProjectDawn_CozyBuilder_GameObjectExt_ComponentScope_1_Dispose_
+  commentId: Overload:ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.Dispose
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>.Dispose
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T).Dispose
+  nameWithType: GameObjectExt.ComponentScope<T>.Dispose
+  nameWithType.vb: GameObjectExt.ComponentScope(Of T).Dispose
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.List
+  name: List
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html#ProjectDawn_CozyBuilder_GameObjectExt_ComponentScope_1_List
+  commentId: F:ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.List
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>.List
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T).List
+  nameWithType: GameObjectExt.ComponentScope<T>.List
+  nameWithType.vb: GameObjectExt.ComponentScope(Of T).List
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.op_Implicit(ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope{`0})~System.Collections.Generic.List{`0}
+  name: implicit operator List<T>(ComponentScope<T>)
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html#ProjectDawn_CozyBuilder_GameObjectExt_ComponentScope_1_op_Implicit_ProjectDawn_CozyBuilder_GameObjectExt_ComponentScope__0___System_Collections_Generic_List__0_
+  commentId: M:ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.op_Implicit(ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope{`0})~System.Collections.Generic.List{`0}
+  name.vb: CType(ComponentScope(Of T))
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>.implicit operator System.Collections.Generic.List<T>(ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>)
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T).CType(ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T))
+  nameWithType: GameObjectExt.ComponentScope<T>.implicit operator List<T>(GameObjectExt.ComponentScope<T>)
+  nameWithType.vb: GameObjectExt.ComponentScope(Of T).CType(GameObjectExt.ComponentScope(Of T))
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.op_Implicit*
+  name: implicit operator
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html#ProjectDawn_CozyBuilder_GameObjectExt_ComponentScope_1_op_Implicit_
+  commentId: Overload:ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope`1.op_Implicit
+  isSpec: "True"
+  name.vb: CType
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope<T>.implicit operator
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope(Of T).CType
+  nameWithType: GameObjectExt.ComponentScope<T>.implicit operator
+  nameWithType.vb: GameObjectExt.ComponentScope(Of T).CType
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped*
+  name: GetComponentsInChildrenScoped
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html#ProjectDawn_CozyBuilder_GameObjectExt_GetComponentsInChildrenScoped_
+  commentId: Overload:ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped
+  nameWithType: GameObjectExt.GetComponentsInChildrenScoped
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped``1(UnityEngine.MonoBehaviour,System.Boolean)
+  name: GetComponentsInChildrenScoped<T>(MonoBehaviour, bool)
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html#ProjectDawn_CozyBuilder_GameObjectExt_GetComponentsInChildrenScoped__1_UnityEngine_MonoBehaviour_System_Boolean_
+  commentId: M:ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped``1(UnityEngine.MonoBehaviour,System.Boolean)
+  name.vb: GetComponentsInChildrenScoped(Of T)(MonoBehaviour, Boolean)
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped<T>(UnityEngine.MonoBehaviour, bool)
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped(Of T)(UnityEngine.MonoBehaviour, Boolean)
+  nameWithType: GameObjectExt.GetComponentsInChildrenScoped<T>(MonoBehaviour, bool)
+  nameWithType.vb: GameObjectExt.GetComponentsInChildrenScoped(Of T)(MonoBehaviour, Boolean)
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped``1(UnityEngine.Transform,System.Boolean)
+  name: GetComponentsInChildrenScoped<T>(Transform, bool)
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html#ProjectDawn_CozyBuilder_GameObjectExt_GetComponentsInChildrenScoped__1_UnityEngine_Transform_System_Boolean_
+  commentId: M:ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped``1(UnityEngine.Transform,System.Boolean)
+  name.vb: GetComponentsInChildrenScoped(Of T)(Transform, Boolean)
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped<T>(UnityEngine.Transform, bool)
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsInChildrenScoped(Of T)(UnityEngine.Transform, Boolean)
+  nameWithType: GameObjectExt.GetComponentsInChildrenScoped<T>(Transform, bool)
+  nameWithType.vb: GameObjectExt.GetComponentsInChildrenScoped(Of T)(Transform, Boolean)
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped*
+  name: GetComponentsScoped
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html#ProjectDawn_CozyBuilder_GameObjectExt_GetComponentsScoped_
+  commentId: Overload:ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped
+  nameWithType: GameObjectExt.GetComponentsScoped
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped``1(UnityEngine.MonoBehaviour,System.Boolean)
+  name: GetComponentsScoped<T>(MonoBehaviour, bool)
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html#ProjectDawn_CozyBuilder_GameObjectExt_GetComponentsScoped__1_UnityEngine_MonoBehaviour_System_Boolean_
+  commentId: M:ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped``1(UnityEngine.MonoBehaviour,System.Boolean)
+  name.vb: GetComponentsScoped(Of T)(MonoBehaviour, Boolean)
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped<T>(UnityEngine.MonoBehaviour, bool)
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped(Of T)(UnityEngine.MonoBehaviour, Boolean)
+  nameWithType: GameObjectExt.GetComponentsScoped<T>(MonoBehaviour, bool)
+  nameWithType.vb: GameObjectExt.GetComponentsScoped(Of T)(MonoBehaviour, Boolean)
+- uid: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped``1(UnityEngine.Transform,System.Boolean)
+  name: GetComponentsScoped<T>(Transform, bool)
+  href: api/ProjectDawn.CozyBuilder.GameObjectExt.html#ProjectDawn_CozyBuilder_GameObjectExt_GetComponentsScoped__1_UnityEngine_Transform_System_Boolean_
+  commentId: M:ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped``1(UnityEngine.Transform,System.Boolean)
+  name.vb: GetComponentsScoped(Of T)(Transform, Boolean)
+  fullName: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped<T>(UnityEngine.Transform, bool)
+  fullName.vb: ProjectDawn.CozyBuilder.GameObjectExt.GetComponentsScoped(Of T)(UnityEngine.Transform, Boolean)
+  nameWithType: GameObjectExt.GetComponentsScoped<T>(Transform, bool)
+  nameWithType.vb: GameObjectExt.GetComponentsScoped(Of T)(Transform, Boolean)
+- uid: ProjectDawn.CozyBuilder.HashBuffer
+  name: HashBuffer
+  href: api/ProjectDawn.CozyBuilder.HashBuffer.html
+  commentId: T:ProjectDawn.CozyBuilder.HashBuffer
+  fullName: ProjectDawn.CozyBuilder.HashBuffer
+  nameWithType: HashBuffer
+- uid: ProjectDawn.CozyBuilder.HashBuffer.GetHash
+  name: GetHash()
+  href: api/ProjectDawn.CozyBuilder.HashBuffer.html#ProjectDawn_CozyBuilder_HashBuffer_GetHash
+  commentId: M:ProjectDawn.CozyBuilder.HashBuffer.GetHash
+  fullName: ProjectDawn.CozyBuilder.HashBuffer.GetHash()
+  nameWithType: HashBuffer.GetHash()
+- uid: ProjectDawn.CozyBuilder.HashBuffer.GetHash*
+  name: GetHash
+  href: api/ProjectDawn.CozyBuilder.HashBuffer.html#ProjectDawn_CozyBuilder_HashBuffer_GetHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.HashBuffer.GetHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.HashBuffer.GetHash
+  nameWithType: HashBuffer.GetHash
+- uid: ProjectDawn.CozyBuilder.HashBuffer.Write*
+  name: Write
+  href: api/ProjectDawn.CozyBuilder.HashBuffer.html#ProjectDawn_CozyBuilder_HashBuffer_Write_
+  commentId: Overload:ProjectDawn.CozyBuilder.HashBuffer.Write
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.HashBuffer.Write
+  nameWithType: HashBuffer.Write
+- uid: ProjectDawn.CozyBuilder.HashBuffer.Write``1(``0)
+  name: Write<T>(T)
+  href: api/ProjectDawn.CozyBuilder.HashBuffer.html#ProjectDawn_CozyBuilder_HashBuffer_Write__1___0_
+  commentId: M:ProjectDawn.CozyBuilder.HashBuffer.Write``1(``0)
+  name.vb: Write(Of T)(T)
+  fullName: ProjectDawn.CozyBuilder.HashBuffer.Write<T>(T)
+  fullName.vb: ProjectDawn.CozyBuilder.HashBuffer.Write(Of T)(T)
+  nameWithType: HashBuffer.Write<T>(T)
+  nameWithType.vb: HashBuffer.Write(Of T)(T)
+- uid: ProjectDawn.CozyBuilder.ICozyBuilder
+  name: ICozyBuilder
+  href: api/ProjectDawn.CozyBuilder.ICozyBuilder.html
+  commentId: T:ProjectDawn.CozyBuilder.ICozyBuilder
+  fullName: ProjectDawn.CozyBuilder.ICozyBuilder
+  nameWithType: ICozyBuilder
+- uid: ProjectDawn.CozyBuilder.ICozyBuilder.Build(ProjectDawn.CozyBuilder.CozyBuilderContext@)
+  name: Build(ref CozyBuilderContext)
+  href: api/ProjectDawn.CozyBuilder.ICozyBuilder.html#ProjectDawn_CozyBuilder_ICozyBuilder_Build_ProjectDawn_CozyBuilder_CozyBuilderContext__
+  commentId: M:ProjectDawn.CozyBuilder.ICozyBuilder.Build(ProjectDawn.CozyBuilder.CozyBuilderContext@)
+  name.vb: Build(CozyBuilderContext)
+  fullName: ProjectDawn.CozyBuilder.ICozyBuilder.Build(ref ProjectDawn.CozyBuilder.CozyBuilderContext)
+  fullName.vb: ProjectDawn.CozyBuilder.ICozyBuilder.Build(ProjectDawn.CozyBuilder.CozyBuilderContext)
+  nameWithType: ICozyBuilder.Build(ref CozyBuilderContext)
+  nameWithType.vb: ICozyBuilder.Build(CozyBuilderContext)
+- uid: ProjectDawn.CozyBuilder.ICozyBuilder.Build*
+  name: Build
+  href: api/ProjectDawn.CozyBuilder.ICozyBuilder.html#ProjectDawn_CozyBuilder_ICozyBuilder_Build_
+  commentId: Overload:ProjectDawn.CozyBuilder.ICozyBuilder.Build
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.ICozyBuilder.Build
+  nameWithType: ICozyBuilder.Build
+- uid: ProjectDawn.CozyBuilder.ICozyGridModifier
+  name: ICozyGridModifier
+  href: api/ProjectDawn.CozyBuilder.ICozyGridModifier.html
+  commentId: T:ProjectDawn.CozyBuilder.ICozyGridModifier
+  fullName: ProjectDawn.CozyBuilder.ICozyGridModifier
+  nameWithType: ICozyGridModifier
+- uid: ProjectDawn.CozyBuilder.ICozyGridModifier.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  href: api/ProjectDawn.CozyBuilder.ICozyGridModifier.html#ProjectDawn_CozyBuilder_ICozyGridModifier_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
+  commentId: M:ProjectDawn.CozyBuilder.ICozyGridModifier.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+  fullName: ProjectDawn.CozyBuilder.ICozyGridModifier.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Cell>, ProjectDawn.CozyBuilder.CozyPlane)
+  fullName.vb: ProjectDawn.CozyBuilder.ICozyGridModifier.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Cell), ProjectDawn.CozyBuilder.CozyPlane)
+  nameWithType: ICozyGridModifier.Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
+  nameWithType.vb: ICozyGridModifier.Modify(CozyBuilderContext, NativeList(Of Cell), CozyPlane)
+- uid: ProjectDawn.CozyBuilder.ICozyGridModifier.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.ICozyGridModifier.html#ProjectDawn_CozyBuilder_ICozyGridModifier_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.ICozyGridModifier.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.ICozyGridModifier.Modify
+  nameWithType: ICozyGridModifier.Modify
+- uid: ProjectDawn.CozyBuilder.ICozyHashable
+  name: ICozyHashable
+  href: api/ProjectDawn.CozyBuilder.ICozyHashable.html
+  commentId: T:ProjectDawn.CozyBuilder.ICozyHashable
+  fullName: ProjectDawn.CozyBuilder.ICozyHashable
+  nameWithType: ICozyHashable
+- uid: ProjectDawn.CozyBuilder.ICozyHashable.CalculateHash
+  name: CalculateHash()
+  href: api/ProjectDawn.CozyBuilder.ICozyHashable.html#ProjectDawn_CozyBuilder_ICozyHashable_CalculateHash
+  commentId: M:ProjectDawn.CozyBuilder.ICozyHashable.CalculateHash
+  fullName: ProjectDawn.CozyBuilder.ICozyHashable.CalculateHash()
+  nameWithType: ICozyHashable.CalculateHash()
+- uid: ProjectDawn.CozyBuilder.ICozyHashable.CalculateHash*
+  name: CalculateHash
+  href: api/ProjectDawn.CozyBuilder.ICozyHashable.html#ProjectDawn_CozyBuilder_ICozyHashable_CalculateHash_
+  commentId: Overload:ProjectDawn.CozyBuilder.ICozyHashable.CalculateHash
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.ICozyHashable.CalculateHash
+  nameWithType: ICozyHashable.CalculateHash
+- uid: ProjectDawn.CozyBuilder.ICozySegmentsModifier
+  name: ICozySegmentsModifier
+  href: api/ProjectDawn.CozyBuilder.ICozySegmentsModifier.html
+  commentId: T:ProjectDawn.CozyBuilder.ICozySegmentsModifier
+  fullName: ProjectDawn.CozyBuilder.ICozySegmentsModifier
+  nameWithType: ICozySegmentsModifier
+- uid: ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Segment},ProjectDawn.CozyBuilder.CozySpline)
+  name: Modify(ref CozyBuilderContext, NativeList<Segment>, CozySpline)
+  href: api/ProjectDawn.CozyBuilder.ICozySegmentsModifier.html#ProjectDawn_CozyBuilder_ICozySegmentsModifier_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Segment__ProjectDawn_CozyBuilder_CozySpline_
+  commentId: M:ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Segment},ProjectDawn.CozyBuilder.CozySpline)
+  name.vb: Modify(CozyBuilderContext, NativeList(Of Segment), CozySpline)
+  fullName: ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify(ref ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList<ProjectDawn.CozyBuilder.Segment>, ProjectDawn.CozyBuilder.CozySpline)
+  fullName.vb: ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext, Unity.Collections.NativeList(Of ProjectDawn.CozyBuilder.Segment), ProjectDawn.CozyBuilder.CozySpline)
+  nameWithType: ICozySegmentsModifier.Modify(ref CozyBuilderContext, NativeList<Segment>, CozySpline)
+  nameWithType.vb: ICozySegmentsModifier.Modify(CozyBuilderContext, NativeList(Of Segment), CozySpline)
+- uid: ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify*
+  name: Modify
+  href: api/ProjectDawn.CozyBuilder.ICozySegmentsModifier.html#ProjectDawn_CozyBuilder_ICozySegmentsModifier_Modify_
+  commentId: Overload:ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.ICozySegmentsModifier.Modify
+  nameWithType: ICozySegmentsModifier.Modify
+- uid: ProjectDawn.CozyBuilder.ListExtension
+  name: ListExtension
+  href: api/ProjectDawn.CozyBuilder.ListExtension.html
+  commentId: T:ProjectDawn.CozyBuilder.ListExtension
+  fullName: ProjectDawn.CozyBuilder.ListExtension
+  nameWithType: ListExtension
+- uid: ProjectDawn.CozyBuilder.ListExtension.IsNull*
+  name: IsNull
+  href: api/ProjectDawn.CozyBuilder.ListExtension.html#ProjectDawn_CozyBuilder_ListExtension_IsNull_
+  commentId: Overload:ProjectDawn.CozyBuilder.ListExtension.IsNull
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.ListExtension.IsNull
+  nameWithType: ListExtension.IsNull
+- uid: ProjectDawn.CozyBuilder.ListExtension.IsNull``1(System.Collections.Generic.List{``0})
+  name: IsNull<T>(List<T>)
+  href: api/ProjectDawn.CozyBuilder.ListExtension.html#ProjectDawn_CozyBuilder_ListExtension_IsNull__1_System_Collections_Generic_List___0__
+  commentId: M:ProjectDawn.CozyBuilder.ListExtension.IsNull``1(System.Collections.Generic.List{``0})
+  name.vb: IsNull(Of T)(List(Of T))
+  fullName: ProjectDawn.CozyBuilder.ListExtension.IsNull<T>(System.Collections.Generic.List<T>)
+  fullName.vb: ProjectDawn.CozyBuilder.ListExtension.IsNull(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: ListExtension.IsNull<T>(List<T>)
+  nameWithType.vb: ListExtension.IsNull(Of T)(List(Of T))
+- uid: ProjectDawn.CozyBuilder.MinMaxRangeAttribute
+  name: MinMaxRangeAttribute
+  href: api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.html
+  commentId: T:ProjectDawn.CozyBuilder.MinMaxRangeAttribute
+  fullName: ProjectDawn.CozyBuilder.MinMaxRangeAttribute
+  nameWithType: MinMaxRangeAttribute
+- uid: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.#ctor(System.Single,System.Single)
+  name: MinMaxRangeAttribute(float, float)
+  href: api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.html#ProjectDawn_CozyBuilder_MinMaxRangeAttribute__ctor_System_Single_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.MinMaxRangeAttribute.#ctor(System.Single,System.Single)
+  name.vb: New(Single, Single)
+  fullName: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.MinMaxRangeAttribute(float, float)
+  fullName.vb: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.New(Single, Single)
+  nameWithType: MinMaxRangeAttribute.MinMaxRangeAttribute(float, float)
+  nameWithType.vb: MinMaxRangeAttribute.New(Single, Single)
+- uid: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.#ctor*
+  name: MinMaxRangeAttribute
+  href: api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.html#ProjectDawn_CozyBuilder_MinMaxRangeAttribute__ctor_
+  commentId: Overload:ProjectDawn.CozyBuilder.MinMaxRangeAttribute.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.MinMaxRangeAttribute
+  fullName.vb: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.New
+  nameWithType: MinMaxRangeAttribute.MinMaxRangeAttribute
+  nameWithType.vb: MinMaxRangeAttribute.New
+- uid: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.Max
+  name: Max
+  href: api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.html#ProjectDawn_CozyBuilder_MinMaxRangeAttribute_Max
+  commentId: F:ProjectDawn.CozyBuilder.MinMaxRangeAttribute.Max
+  fullName: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.Max
+  nameWithType: MinMaxRangeAttribute.Max
+- uid: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.Min
+  name: Min
+  href: api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.html#ProjectDawn_CozyBuilder_MinMaxRangeAttribute_Min
+  commentId: F:ProjectDawn.CozyBuilder.MinMaxRangeAttribute.Min
+  fullName: ProjectDawn.CozyBuilder.MinMaxRangeAttribute.Min
+  nameWithType: MinMaxRangeAttribute.Min
+- uid: ProjectDawn.CozyBuilder.Placement
+  name: Placement
+  href: api/ProjectDawn.CozyBuilder.Placement.html
+  commentId: T:ProjectDawn.CozyBuilder.Placement
+  fullName: ProjectDawn.CozyBuilder.Placement
+  nameWithType: Placement
+- uid: ProjectDawn.CozyBuilder.Placement.Center
+  name: Center
+  href: api/ProjectDawn.CozyBuilder.Placement.html#ProjectDawn_CozyBuilder_Placement_Center
+  commentId: F:ProjectDawn.CozyBuilder.Placement.Center
+  fullName: ProjectDawn.CozyBuilder.Placement.Center
+  nameWithType: Placement.Center
+- uid: ProjectDawn.CozyBuilder.Placement.Edge
+  name: Edge
+  href: api/ProjectDawn.CozyBuilder.Placement.html#ProjectDawn_CozyBuilder_Placement_Edge
+  commentId: F:ProjectDawn.CozyBuilder.Placement.Edge
+  fullName: ProjectDawn.CozyBuilder.Placement.Edge
+  nameWithType: Placement.Edge
+- uid: ProjectDawn.CozyBuilder.Range
+  name: Range
+  href: api/ProjectDawn.CozyBuilder.Range.html
+  commentId: T:ProjectDawn.CozyBuilder.Range
+  fullName: ProjectDawn.CozyBuilder.Range
+  nameWithType: Range
+- uid: ProjectDawn.CozyBuilder.Range.#ctor(System.Single,System.Single)
+  name: Range(float, float)
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range__ctor_System_Single_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.Range.#ctor(System.Single,System.Single)
+  name.vb: New(Single, Single)
+  fullName: ProjectDawn.CozyBuilder.Range.Range(float, float)
+  fullName.vb: ProjectDawn.CozyBuilder.Range.New(Single, Single)
+  nameWithType: Range.Range(float, float)
+  nameWithType.vb: Range.New(Single, Single)
+- uid: ProjectDawn.CozyBuilder.Range.#ctor*
+  name: Range
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range__ctor_
+  commentId: Overload:ProjectDawn.CozyBuilder.Range.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ProjectDawn.CozyBuilder.Range.Range
+  fullName.vb: ProjectDawn.CozyBuilder.Range.New
+  nameWithType: Range.Range
+  nameWithType.vb: Range.New
+- uid: ProjectDawn.CozyBuilder.Range.Contains(System.Single)
+  name: Contains(float)
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range_Contains_System_Single_
+  commentId: M:ProjectDawn.CozyBuilder.Range.Contains(System.Single)
+  name.vb: Contains(Single)
+  fullName: ProjectDawn.CozyBuilder.Range.Contains(float)
+  fullName.vb: ProjectDawn.CozyBuilder.Range.Contains(Single)
+  nameWithType: Range.Contains(float)
+  nameWithType.vb: Range.Contains(Single)
+- uid: ProjectDawn.CozyBuilder.Range.Contains*
+  name: Contains
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range_Contains_
+  commentId: Overload:ProjectDawn.CozyBuilder.Range.Contains
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.Range.Contains
+  nameWithType: Range.Contains
+- uid: ProjectDawn.CozyBuilder.Range.End
+  name: End
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range_End
+  commentId: F:ProjectDawn.CozyBuilder.Range.End
+  fullName: ProjectDawn.CozyBuilder.Range.End
+  nameWithType: Range.End
+- uid: ProjectDawn.CozyBuilder.Range.Length
+  name: Length
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range_Length
+  commentId: P:ProjectDawn.CozyBuilder.Range.Length
+  fullName: ProjectDawn.CozyBuilder.Range.Length
+  nameWithType: Range.Length
+- uid: ProjectDawn.CozyBuilder.Range.Length*
+  name: Length
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range_Length_
+  commentId: Overload:ProjectDawn.CozyBuilder.Range.Length
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.Range.Length
+  nameWithType: Range.Length
+- uid: ProjectDawn.CozyBuilder.Range.Start
+  name: Start
+  href: api/ProjectDawn.CozyBuilder.Range.html#ProjectDawn_CozyBuilder_Range_Start
+  commentId: F:ProjectDawn.CozyBuilder.Range.Start
+  fullName: ProjectDawn.CozyBuilder.Range.Start
+  nameWithType: Range.Start
+- uid: ProjectDawn.CozyBuilder.RangeExt
+  name: RangeExt
+  href: api/ProjectDawn.CozyBuilder.RangeExt.html
+  commentId: T:ProjectDawn.CozyBuilder.RangeExt
+  fullName: ProjectDawn.CozyBuilder.RangeExt
+  nameWithType: RangeExt
+- uid: ProjectDawn.CozyBuilder.RangeExt.NextFloat(Unity.Mathematics.Random@,ProjectDawn.CozyBuilder.Range)
+  name: NextFloat(ref Random, Range)
+  href: api/ProjectDawn.CozyBuilder.RangeExt.html#ProjectDawn_CozyBuilder_RangeExt_NextFloat_Unity_Mathematics_Random__ProjectDawn_CozyBuilder_Range_
+  commentId: M:ProjectDawn.CozyBuilder.RangeExt.NextFloat(Unity.Mathematics.Random@,ProjectDawn.CozyBuilder.Range)
+  name.vb: NextFloat(Random, Range)
+  fullName: ProjectDawn.CozyBuilder.RangeExt.NextFloat(ref Unity.Mathematics.Random, ProjectDawn.CozyBuilder.Range)
+  fullName.vb: ProjectDawn.CozyBuilder.RangeExt.NextFloat(Unity.Mathematics.Random, ProjectDawn.CozyBuilder.Range)
+  nameWithType: RangeExt.NextFloat(ref Random, Range)
+  nameWithType.vb: RangeExt.NextFloat(Random, Range)
+- uid: ProjectDawn.CozyBuilder.RangeExt.NextFloat*
+  name: NextFloat
+  href: api/ProjectDawn.CozyBuilder.RangeExt.html#ProjectDawn_CozyBuilder_RangeExt_NextFloat_
+  commentId: Overload:ProjectDawn.CozyBuilder.RangeExt.NextFloat
+  isSpec: "True"
+  fullName: ProjectDawn.CozyBuilder.RangeExt.NextFloat
+  nameWithType: RangeExt.NextFloat
+- uid: ProjectDawn.CozyBuilder.Scaling
+  name: Scaling
+  href: api/ProjectDawn.CozyBuilder.Scaling.html
+  commentId: T:ProjectDawn.CozyBuilder.Scaling
+  fullName: ProjectDawn.CozyBuilder.Scaling
+  nameWithType: Scaling
+- uid: ProjectDawn.CozyBuilder.Scaling.None
+  name: None
+  href: api/ProjectDawn.CozyBuilder.Scaling.html#ProjectDawn_CozyBuilder_Scaling_None
+  commentId: F:ProjectDawn.CozyBuilder.Scaling.None
+  fullName: ProjectDawn.CozyBuilder.Scaling.None
+  nameWithType: Scaling.None
+- uid: ProjectDawn.CozyBuilder.Scaling.Stretch
+  name: Stretch
+  href: api/ProjectDawn.CozyBuilder.Scaling.html#ProjectDawn_CozyBuilder_Scaling_Stretch
+  commentId: F:ProjectDawn.CozyBuilder.Scaling.Stretch
+  fullName: ProjectDawn.CozyBuilder.Scaling.Stretch
+  nameWithType: Scaling.Stretch
+- uid: ProjectDawn.CozyBuilder.Segment
+  name: Segment
+  href: api/ProjectDawn.CozyBuilder.Segment.html
+  commentId: T:ProjectDawn.CozyBuilder.Segment
+  fullName: ProjectDawn.CozyBuilder.Segment
+  nameWithType: Segment
+- uid: ProjectDawn.CozyBuilder.Segment.Depth
+  name: Depth
+  href: api/ProjectDawn.CozyBuilder.Segment.html#ProjectDawn_CozyBuilder_Segment_Depth
+  commentId: F:ProjectDawn.CozyBuilder.Segment.Depth
+  fullName: ProjectDawn.CozyBuilder.Segment.Depth
+  nameWithType: Segment.Depth
+- uid: ProjectDawn.CozyBuilder.Segment.Index
+  name: Index
+  href: api/ProjectDawn.CozyBuilder.Segment.html#ProjectDawn_CozyBuilder_Segment_Index
+  commentId: F:ProjectDawn.CozyBuilder.Segment.Index
+  fullName: ProjectDawn.CozyBuilder.Segment.Index
+  nameWithType: Segment.Index
+- uid: ProjectDawn.CozyBuilder.Segment.Width
+  name: Width
+  href: api/ProjectDawn.CozyBuilder.Segment.html#ProjectDawn_CozyBuilder_Segment_Width
+  commentId: F:ProjectDawn.CozyBuilder.Segment.Width
+  fullName: ProjectDawn.CozyBuilder.Segment.Width
+  nameWithType: Segment.Width
+- uid: ProjectDawn.CozyBuilder.Segment.X
+  name: X
+  href: api/ProjectDawn.CozyBuilder.Segment.html#ProjectDawn_CozyBuilder_Segment_X
+  commentId: F:ProjectDawn.CozyBuilder.Segment.X
+  fullName: ProjectDawn.CozyBuilder.Segment.X
+  nameWithType: Segment.X
+- uid: ProjectDawn.CozyBuilder.Segment.Z
+  name: Z
+  href: api/ProjectDawn.CozyBuilder.Segment.html#ProjectDawn_CozyBuilder_Segment_Z
+  commentId: F:ProjectDawn.CozyBuilder.Segment.Z
+  fullName: ProjectDawn.CozyBuilder.Segment.Z
+  nameWithType: Segment.Z
+- uid: ProjectDawn.CozyBuilder.SplineTopology
+  name: SplineTopology
+  href: api/ProjectDawn.CozyBuilder.SplineTopology.html
+  commentId: T:ProjectDawn.CozyBuilder.SplineTopology
+  fullName: ProjectDawn.CozyBuilder.SplineTopology
+  nameWithType: SplineTopology
+- uid: ProjectDawn.CozyBuilder.SplineTopology.CutmulRowStrip
+  name: CutmulRowStrip
+  href: api/ProjectDawn.CozyBuilder.SplineTopology.html#ProjectDawn_CozyBuilder_SplineTopology_CutmulRowStrip
+  commentId: F:ProjectDawn.CozyBuilder.SplineTopology.CutmulRowStrip
+  fullName: ProjectDawn.CozyBuilder.SplineTopology.CutmulRowStrip
+  nameWithType: SplineTopology.CutmulRowStrip
+- uid: ProjectDawn.CozyBuilder.SplineTopology.LineStrip
+  name: LineStrip
+  href: api/ProjectDawn.CozyBuilder.SplineTopology.html#ProjectDawn_CozyBuilder_SplineTopology_LineStrip
+  commentId: F:ProjectDawn.CozyBuilder.SplineTopology.LineStrip
+  fullName: ProjectDawn.CozyBuilder.SplineTopology.LineStrip
+  nameWithType: SplineTopology.LineStrip

@@ -1,0 +1,759 @@
+{
+  "source_base_path": "C:/Users/Lukas/Source/AssetStore/CozyBuilder/Temp/.docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.BondOrentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.BondOrentation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Cell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Cell.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyArtifact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyArtifact.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyAttachment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyAttachment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyBuildMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyBuildMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyBuilderContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyBuilderContext.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyCrenelles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyCrenelles.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyCut.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyCut.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyDoubleLapTilling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyDraw.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyDraw.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyGrid.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyGrid.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyMask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyMask.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyPlane.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyPlane.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyPoint.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyQuoin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyQuoin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderNode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderNodeBatchComparer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyRenderer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyRunningBond.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyRunningBond.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozySegments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozySegments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozySpline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozySpline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.CozyStringCourses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.CozyStringCourses.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Editor.CozyOverlay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Editor.CozyOverlay.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Editor.CozyRendererGizmos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Editor.CozyRendererGizmos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Editor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.GameObjectExt.ComponentScope-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.GameObjectExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.GameObjectExt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.HashBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.HashBuffer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.ICozyBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.ICozyBuilder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.ICozyGridModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.ICozyGridModifier.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.ICozyHashable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.ICozyHashable.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.ICozySegmentsModifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.ICozySegmentsModifier.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.ListExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.ListExtension.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.MinMaxRangeAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Placement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Placement.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Range.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Range.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.RangeExt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.RangeExt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Scaling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Scaling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.Segment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.Segment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.SplineTopology.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.SplineTopology.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ProjectDawn.CozyBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ProjectDawn.CozyBuilder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/cozy-village.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/cozy-village.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/crenelles.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/crenelles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/cut.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/cut.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/grid-draw.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/grid-draw.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/line.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/line.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/lines.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/mask.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/mask.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/package-manager.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/package-manager.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/plane.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/plane.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/point.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/point.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/quoin.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/quoin.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/renderer.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/renderer.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/roof-corner-bad.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/roof-corner-bad.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/roof-corner-good.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/roof-corner-good.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/roof-lines.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/roof-lines.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/roof-planes.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/roof-planes.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/roof-tiles.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/roof-tiles.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/running-bond.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/running-bond.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "manual/images/string-courses.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/string-courses.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/known-issues.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/known-issues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/samples.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/samples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/tutorials.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/tutorials.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/tutorials/custom-builder.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/tutorials/custom-builder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/tutorials/my-first-roof.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/tutorials/my-first-roof.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/tutorials/my-first-wall.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/tutorials/my-first-wall.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

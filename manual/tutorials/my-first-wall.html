@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>My First Wall </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="My First Wall ">
+    <meta name="generator" content="docfx ">
+  
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../../toc.html">
+    <meta property="docfx:tocrel" content="../toc.html">
+  
+  <meta property="docfx:rel" content="../../">
+  
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="my-first-wall">My First Wall</h1>
+
+<p>This tutorial explains how to set up components for procedurally generating a brick wall.</p>
+<p>For the finished tutorial, check the scene <strong>My First Wall</strong> in <a href="../samples.html">Samples</a>.</p>
+<h2 id="setup">Setup</h2>
+<p>Before starting the tutorial, it is recommended to open the <code>Cozy Tools</code> overlay toolbar. You can open it by pressing the ` key and selecting <strong>Cozy Tools</strong>.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>For more information about the overlay toolbar, refer to the <a href="https://docs.unity3d.com/6000.0/Documentation/Manual/overlays.html">Unity Overlay Toolbar documentation</a>.</p>
+</div>
+<hr>
+<h2 id="geometry">Geometry</h2>
+<h3 id="cozy-renderer">Cozy Renderer</h3>
+<p>First, you will need to create a <code>Cozy Renderer</code>. This component is responsible for managing geometry and procedurally generating draw calls. It functions similarly to Unity's <code>Canvas</code> component, where a <code>Canvas</code> contains UI elements in its hierarchy, and a <code>Cozy Renderer</code> contains points, splines, planes, and other builders.</p>
+<p>To create a <code>Cozy Renderer</code>, use the menu item or right-click in the <code>Hierarchy</code> view:<br>
+<strong>Cozy Builder &gt; Renderer</strong>.</p>
+<img src="../images/renderer.png" width="400">
+<h3 id="cozy-point">Cozy Point</h3>
+<p>Next, create a <code>Cozy Point</code>, a GameObject with the <code>Cozy Point</code> component. This acts as a control point for splines.</p>
+<p>Using the <code>Cozy Tools</code> toolbar, click the <strong>Create Point</strong> button to generate a point. Create four points to form a spline in the next step.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>Points created via <code>Cozy Tools</code> are automatically parented to the currently selected GameObject. Select your <code>Cozy Renderer</code> before clicking <strong>Create Point</strong>.</p>
+</div>
+<img src="../images/point.png" width="400">
+<h3 id="cozy-spline">Cozy Spline</h3>
+<p>To generate a <code>Spline</code>, select the points and use the <code>Cozy Tools</code> toolbar, clicking the <strong>Create Spline</strong> button.</p>
+<img src="../images/line.png" width="400">
+<h3 id="cozy-plane">Cozy Plane</h3>
+<p>Before creating a <code>Plane</code>, you'll need an additional spline. Duplicate the existing spline and points (<code>Ctrl + D</code>) and move them slightly upward.</p>
+<p>Now, create a <code>Plane</code> using the <code>Cozy Tools</code> toolbar. Select both splines and click the <strong>Create Plane</strong> button.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>The order of selected splines matters when creating a <code>Plane</code>. Select the lower spline first for consistency with other prefabs.</p>
+</div>
+<img src="../images/plane.png" width="400">
+<hr>
+<h2 id="bricks">Bricks</h2>
+<p>This section explains how to generate tiles for your plane.</p>
+<p>First, create a new GameObject with the <code>Cozy Grid</code> component and make it a child of the <code>Plane</code> GameObject. The <code>Cozy Grid</code> splits the plane into an array of cells. However, it does not produce draw calls on its own—you'll need modifiers for visualization.</p>
+<div class="NOTE">
+<h5>Note</h5>
+<p>While the same GameObject can contain both <code>Cozy Plane</code> and <code>Cozy Grid</code>, using separate GameObjects helps separate procedural generation logic from geometry and simplifies copying/pasting properties.</p>
+</div>
+<hr>
+<h3 id="modifiers">Modifiers</h3>
+<p>Modifiers enhance the <code>Cozy Grid</code> by manipulating cells and creating visual output.</p>
+<div class="IMPORTANT">
+<h5>Important</h5>
+<p>Modifiers are applied in the order they appear on the GameObject. Ensure <code>Cozy Draw</code> is the last component, with other modifiers listed before it.</p>
+</div>
+<h4 id="cozy-draw">Cozy Draw</h4>
+<p><code>Cozy Draw</code> generates draw calls for each cell. For prefabs, use <code>Models/Brick/Brick</code>, which includes four variations.</p>
+<img src="../images/grid-draw.png" width="400">
+<h4 id="running-bond">Running Bond</h4>
+<p><code>Running Bond</code> rearranges cell widths to create a brick-like pattern and occasionally splits bricks.</p>
+<img src="../images/running-bond.png" width="400">
+<h4 id="quoin">Quoin</h4>
+<p><code>Quoin</code> adds bricks at the corners of the plane.</p>
+<img src="../images/quoin.png" width="400">
+<h4 id="string-courses">String Courses</h4>
+<p>Adds additional rows of quads at specific repeated heights. This detail was historically used to indicate flooring levels in walls.</p>
+<img src="../images/string-courses.png" width="400">
+<h4 id="crenelles">Crenelles</h4>
+<p>Removes bricks at specific rows in a fixed pattern to create a medieval defensive wall look.</p>
+<img src="../images/crenelles.png" width="400">
+<h4 id="cut-and-mask">Cut and Mask</h4>
+<p>Allows you to cut into the wall for features like doors and windows. To set this up:</p>
+<ol>
+<li>Add a <code>Cozy Cut</code> component to the <code>Cozy Grid</code> GameObject.</li>
+<li>Add a <code>Cozy Mask</code> component to sibling GameObjects.</li>
+</ol>
+<img src="../images/mask.png" width="400">  
+<img src="../images/cut.png" width="400">
+</article>
+          </div>
+
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+      
+      <span>Copyright © ProjectDawn.<br>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+  </body>
+</html>
