@@ -227,7 +227,7 @@
   "manual/index.html": {
     "href": "manual/index.html",
     "title": "Cozy Builder",
-    "keywords": "Cozy Builder This package provides a lightweight solution for procedurally generating buildings. It is heavily inspired by Tiny Glade, featuring similar functionality and art style. Cozy Builder is designed as a tool for cozy builder games or a convenient solution for creating pre-baked buildings. Important This package is currently in a preview state. Expect some rough edges and additional features in future updates. Quick Start For a minimal setup, refer to the tutorial: My First Wall. Dependencies Minimum Unity Version: 2022.3 Required Packages: com.unity.mathematics com.unity.collections com.unity.burst Support If you have any questions, encounter bugs, or have feature requests, join us on Discord."
+    "keywords": "Cozy Builder This package provides a lightweight solution for procedurally generating buildings. It is heavily inspired by Tiny Glade, featuring similar functionality and art style. Cozy Builder is designed as a tool for cozy builder games or a convenient solution for creating pre-baked buildings. Important This package is currently in a preview state. Expect some rough edges and additional features in future updates. :) Quick Start For a minimal setup, refer to the tutorial: My First Wall. Dependencies Minimum Unity Version: 2022.3 Required Packages: com.unity.mathematics com.unity.collections com.unity.burst Support If you have any questions, encounter bugs, or have feature requests, join us on Discord."
   },
   "manual/known-issues.html": {
     "href": "manual/known-issues.html",
