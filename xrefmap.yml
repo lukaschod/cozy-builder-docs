@@ -185,6 +185,12 @@ references:
   isSpec: "True"
   fullName: ProjectDawn.CozyBuilder.CozyAttachment.CalculateHash
   nameWithType: CozyAttachment.CalculateHash
+- uid: ProjectDawn.CozyBuilder.CozyAttachment.Offset
+  name: Offset
+  href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_Offset
+  commentId: F:ProjectDawn.CozyBuilder.CozyAttachment.Offset
+  fullName: ProjectDawn.CozyBuilder.CozyAttachment.Offset
+  nameWithType: CozyAttachment.Offset
 - uid: ProjectDawn.CozyBuilder.CozyAttachment.Prefab
   name: Prefab
   href: api/ProjectDawn.CozyBuilder.CozyAttachment.html#ProjectDawn_CozyBuilder_CozyAttachment_Prefab
@@ -221,12 +227,12 @@ references:
   commentId: T:ProjectDawn.CozyBuilder.CozyBuilderContext
   fullName: ProjectDawn.CozyBuilder.CozyBuilderContext
   nameWithType: CozyBuilderContext
-- uid: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject,Unity.Mathematics.float3,Unity.Mathematics.quaternion,Unity.Mathematics.float3)
-  name: Instantiate(GameObject, float3, quaternion, float3)
-  href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html#ProjectDawn_CozyBuilder_CozyBuilderContext_Instantiate_UnityEngine_GameObject_Unity_Mathematics_float3_Unity_Mathematics_quaternion_Unity_Mathematics_float3_
-  commentId: M:ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject,Unity.Mathematics.float3,Unity.Mathematics.quaternion,Unity.Mathematics.float3)
-  fullName: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject, Unity.Mathematics.float3, Unity.Mathematics.quaternion, Unity.Mathematics.float3)
-  nameWithType: CozyBuilderContext.Instantiate(GameObject, float3, quaternion, float3)
+- uid: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject,Unity.Mathematics.float3,Unity.Mathematics.quaternion,Unity.Mathematics.float3,UnityEngine.Material)
+  name: Instantiate(GameObject, float3, quaternion, float3, Material)
+  href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html#ProjectDawn_CozyBuilder_CozyBuilderContext_Instantiate_UnityEngine_GameObject_Unity_Mathematics_float3_Unity_Mathematics_quaternion_Unity_Mathematics_float3_UnityEngine_Material_
+  commentId: M:ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject,Unity.Mathematics.float3,Unity.Mathematics.quaternion,Unity.Mathematics.float3,UnityEngine.Material)
+  fullName: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.GameObject, Unity.Mathematics.float3, Unity.Mathematics.quaternion, Unity.Mathematics.float3, UnityEngine.Material)
+  nameWithType: CozyBuilderContext.Instantiate(GameObject, float3, quaternion, float3, Material)
 - uid: ProjectDawn.CozyBuilder.CozyBuilderContext.Instantiate(UnityEngine.Material,UnityEngine.Mesh,Unity.Mathematics.float3,Unity.Mathematics.quaternion)
   name: Instantiate(Material, Mesh, float3, quaternion)
   href: api/ProjectDawn.CozyBuilder.CozyBuilderContext.html#ProjectDawn_CozyBuilder_CozyBuilderContext_Instantiate_UnityEngine_Material_UnityEngine_Mesh_Unity_Mathematics_float3_Unity_Mathematics_quaternion_
@@ -477,6 +483,12 @@ references:
   isSpec: "True"
   fullName: ProjectDawn.CozyBuilder.CozyDraw.Modify
   nameWithType: CozyDraw.Modify
+- uid: ProjectDawn.CozyBuilder.CozyDraw.OverrideMaterial
+  name: OverrideMaterial
+  href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_OverrideMaterial
+  commentId: F:ProjectDawn.CozyBuilder.CozyDraw.OverrideMaterial
+  fullName: ProjectDawn.CozyBuilder.CozyDraw.OverrideMaterial
+  nameWithType: CozyDraw.OverrideMaterial
 - uid: ProjectDawn.CozyBuilder.CozyDraw.Prefabs
   name: Prefabs
   href: api/ProjectDawn.CozyBuilder.CozyDraw.html#ProjectDawn_CozyBuilder_CozyDraw_Prefabs
@@ -757,6 +769,12 @@ references:
   commentId: F:ProjectDawn.CozyBuilder.CozyQuoin.Height
   fullName: ProjectDawn.CozyBuilder.CozyQuoin.Height
   nameWithType: CozyQuoin.Height
+- uid: ProjectDawn.CozyBuilder.CozyQuoin.Mirror
+  name: Mirror
+  href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Mirror
+  commentId: F:ProjectDawn.CozyBuilder.CozyQuoin.Mirror
+  fullName: ProjectDawn.CozyBuilder.CozyQuoin.Mirror
+  nameWithType: CozyQuoin.Mirror
 - uid: ProjectDawn.CozyBuilder.CozyQuoin.Modify(ProjectDawn.CozyBuilder.CozyBuilderContext@,Unity.Collections.NativeList{ProjectDawn.CozyBuilder.Cell},ProjectDawn.CozyBuilder.CozyPlane)
   name: Modify(ref CozyBuilderContext, NativeList<Cell>, CozyPlane)
   href: api/ProjectDawn.CozyBuilder.CozyQuoin.html#ProjectDawn_CozyBuilder_CozyQuoin_Modify_ProjectDawn_CozyBuilder_CozyBuilderContext__Unity_Collections_NativeList_ProjectDawn_CozyBuilder_Cell__ProjectDawn_CozyBuilder_CozyPlane_
@@ -878,12 +896,6 @@ references:
   isSpec: "True"
   fullName: ProjectDawn.CozyBuilder.CozyRenderer.Clear
   nameWithType: CozyRenderer.Clear
-- uid: ProjectDawn.CozyBuilder.CozyRenderer.RenderMode
-  name: RenderMode
-  href: api/ProjectDawn.CozyBuilder.CozyRenderer.html#ProjectDawn_CozyBuilder_CozyRenderer_RenderMode
-  commentId: F:ProjectDawn.CozyBuilder.CozyRenderer.RenderMode
-  fullName: ProjectDawn.CozyBuilder.CozyRenderer.RenderMode
-  nameWithType: CozyRenderer.RenderMode
 - uid: ProjectDawn.CozyBuilder.CozyRunningBond
   name: CozyRunningBond
   href: api/ProjectDawn.CozyBuilder.CozyRunningBond.html
